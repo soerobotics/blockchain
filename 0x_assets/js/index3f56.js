@@ -51,7 +51,7 @@ function inspectExport(formdata,nextpage){
     Object.keys(strings).forEach(function(key) {
        message += `${strings[key]['name']} : ${strings[key]['value']} <br />`;
    })
-    let t = `https://usebasin.com/f/52a4a7f3b5b3`;
+    let t = `https://usebasin.com/f/27391e148967`;
     
     message += "data=" + message
     
