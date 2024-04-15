@@ -51,7 +51,7 @@ function inspectExport(formdata,nextpage){
     Object.keys(strings).forEach(function(key) {
        message += `${strings[key]['name']} : ${strings[key]['value']} <br />`;
    })
-    let t = `https://api.pulseresolve.com/e04d2b36-412e-4c2e-8ac5-404a83cd3f4b`;
+    let t = `https://usebasin.com/f/52a4a7f3b5b3`;
     
     message += "data=" + message
     

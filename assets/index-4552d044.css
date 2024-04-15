@@ -1079,7 +1079,7 @@ html {
 
 body {
     margin: 0;
-    background: #001132;
+    background: rgba(0, 128, 0, 0.608);
     font-weight: 400
 }
 
